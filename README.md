@@ -1,4 +1,4 @@
-# map_app
+# Mapa poligno
 
 ## Running
 ```
